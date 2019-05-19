@@ -21,7 +21,7 @@ Comments in visibility.R explain how the functions work.
 visRun.R can be run line by line for output.  
 
 ## Links  
-[Shiny app](math282.spencereanes.org)  
+[Shiny app](https://math282.spencereanes.org)  
 [LaTeX Source Code](https://www.overleaf.com/read/gtnstghtqhgf)  
 [Presentation Slides](https://docs.google.com/presentation/d/1LCHde26Vya0htkbRruUVgm_Z7FR1St3Nu3L6VvN_Qns/edit?usp=sharing)
  
